@@ -1,0 +1,2758 @@
+{
+    "cars": [
+        {
+            "car_id": "00001",
+            "make": "Toyota",
+            "model": "Cruze",
+            "year": 2021,
+            "color": "Red",
+            "rental_price_per_day": 47,
+            "availability": true
+        },
+        {
+            "car_id": "00002",
+            "make": "Honda",
+            "model": "Focus",
+            "year": 2020,
+            "color": "Red",
+            "rental_price_per_day": 40,
+            "availability": true
+        },
+        {
+            "car_id": "00003",
+            "make": "BMW",
+            "model": "CR-V",
+            "year": 2021,
+            "color": "Red",
+            "rental_price_per_day": 55,
+            "availability": true
+        },
+        {
+            "car_id": "00004",
+            "make": "Honda",
+            "model": "Cruze",
+            "year": 2016,
+            "color": "Grey",
+            "rental_price_per_day": 95,
+            "availability": true
+        },
+        {
+            "car_id": "00005",
+            "make": "Ford",
+            "model": "X5",
+            "year": 2017,
+            "color": "Blue",
+            "rental_price_per_day": 98,
+            "availability": false
+        },
+        {
+            "car_id": "00006",
+            "make": "Honda",
+            "model": "320i",
+            "year": 2016,
+            "color": "Silver",
+            "rental_price_per_day": 72,
+            "availability": true
+        },
+        {
+            "car_id": "00007",
+            "make": "BMW",
+            "model": "Corolla",
+            "year": 2014,
+            "color": "Red",
+            "rental_price_per_day": 71,
+            "availability": true
+        },
+        {
+            "car_id": "00008",
+            "make": "Ford",
+            "model": "Focus",
+            "year": 2021,
+            "color": "Red",
+            "rental_price_per_day": 72,
+            "availability": false
+        },
+        {
+            "car_id": "00009",
+            "make": "BMW",
+            "model": "Cruze",
+            "year": 2017,
+            "color": "Silver",
+            "rental_price_per_day": 85,
+            "availability": true
+        },
+        {
+            "car_id": "00010",
+            "make": "BMW",
+            "model": "Focus",
+            "year": 2020,
+            "color": "Red",
+            "rental_price_per_day": 91,
+            "availability": true
+        },
+        {
+            "car_id": "00011",
+            "make": "BMW",
+            "model": "Malibu",
+            "year": 2018,
+            "color": "Silver",
+            "rental_price_per_day": 89,
+            "availability": true
+        },
+        {
+            "car_id": "00012",
+            "make": "Chevrolet",
+            "model": "Prius",
+            "year": 2016,
+            "color": "Grey",
+            "rental_price_per_day": 85,
+            "availability": false
+        },
+        {
+            "car_id": "00013",
+            "make": "Chevrolet",
+            "model": "Prius",
+            "year": 2013,
+            "color": "Red",
+            "rental_price_per_day": 67,
+            "availability": true
+        },
+        {
+            "car_id": "00014",
+            "make": "Honda",
+            "model": "Focus",
+            "year": 2019,
+            "color": "Silver",
+            "rental_price_per_day": 65,
+            "availability": true
+        },
+        {
+            "car_id": "00015",
+            "make": "Ford",
+            "model": "Prius",
+            "year": 2014,
+            "color": "Silver",
+            "rental_price_per_day": 63,
+            "availability": true
+        },
+        {
+            "car_id": "00016",
+            "make": "Ford",
+            "model": "Fusion",
+            "year": 2021,
+            "color": "White",
+            "rental_price_per_day": 87,
+            "availability": true
+        },
+        {
+            "car_id": "00017",
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "year": 2019,
+            "color": "Red",
+            "rental_price_per_day": 62,
+            "availability": false
+        },
+        {
+            "car_id": "00018",
+            "make": "Ford",
+            "model": "X5",
+            "year": 2022,
+            "color": "Black",
+            "rental_price_per_day": 88,
+            "availability": true
+        },
+        {
+            "car_id": "00019",
+            "make": "Chevrolet",
+            "model": "320i",
+            "year": 2017,
+            "color": "Blue",
+            "rental_price_per_day": 43,
+            "availability": false
+        },
+        {
+            "car_id": "00020",
+            "make": "Toyota",
+            "model": "Fusion",
+            "year": 2013,
+            "color": "Silver",
+            "rental_price_per_day": 94,
+            "availability": true
+        },
+        {
+            "car_id": "00021",
+            "make": "BMW",
+            "model": "Impala",
+            "year": 2023,
+            "color": "White",
+            "rental_price_per_day": 95,
+            "availability": true
+        },
+        {
+            "car_id": "00022",
+            "make": "BMW",
+            "model": "Corolla",
+            "year": 2015,
+            "color": "Silver",
+            "rental_price_per_day": 73,
+            "availability": true
+        },
+        {
+            "car_id": "00023",
+            "make": "BMW",
+            "model": "Malibu",
+            "year": 2013,
+            "color": "Silver",
+            "rental_price_per_day": 44,
+            "availability": true
+        },
+        {
+            "car_id": "00024",
+            "make": "Chevrolet",
+            "model": "X5",
+            "year": 2015,
+            "color": "Blue",
+            "rental_price_per_day": 99,
+            "availability": true
+        },
+        {
+            "car_id": "00025",
+            "make": "BMW",
+            "model": "Focus",
+            "year": 2014,
+            "color": "Silver",
+            "rental_price_per_day": 96,
+            "availability": false
+        },
+        {
+            "car_id": "00026",
+            "make": "Toyota",
+            "model": "CR-V",
+            "year": 2013,
+            "color": "Blue",
+            "rental_price_per_day": 68,
+            "availability": false
+        },
+        {
+            "car_id": "00027",
+            "make": "Toyota",
+            "model": "Focus",
+            "year": 2016,
+            "color": "Silver",
+            "rental_price_per_day": 76,
+            "availability": true
+        },
+        {
+            "car_id": "00028",
+            "make": "Honda",
+            "model": "X5",
+            "year": 2016,
+            "color": "Black",
+            "rental_price_per_day": 53,
+            "availability": true
+        },
+        {
+            "car_id": "00029",
+            "make": "BMW",
+            "model": "Cruze",
+            "year": 2021,
+            "color": "Black",
+            "rental_price_per_day": 71,
+            "availability": true
+        },
+        {
+            "car_id": "00030",
+            "make": "Honda",
+            "model": "Fusion",
+            "year": 2019,
+            "color": "Black",
+            "rental_price_per_day": 52,
+            "availability": true
+        },
+        {
+            "car_id": "00031",
+            "make": "BMW",
+            "model": "Cruze",
+            "year": 2018,
+            "color": "Silver",
+            "rental_price_per_day": 92,
+            "availability": false
+        },
+        {
+            "car_id": "00032",
+            "make": "Ford",
+            "model": "Prius",
+            "year": 2017,
+            "color": "Red",
+            "rental_price_per_day": 66,
+            "availability": false
+        },
+        {
+            "car_id": "00033",
+            "make": "Toyota",
+            "model": "Corolla",
+            "year": 2014,
+            "color": "White",
+            "rental_price_per_day": 90,
+            "availability": true
+        },
+        {
+            "car_id": "00034",
+            "make": "Ford",
+            "model": "Prius",
+            "year": 2022,
+            "color": "Black",
+            "rental_price_per_day": 48,
+            "availability": true
+        },
+        {
+            "car_id": "00035",
+            "make": "Chevrolet",
+            "model": "Impala",
+            "year": 2017,
+            "color": "Grey",
+            "rental_price_per_day": 100,
+            "availability": true
+        },
+        {
+            "car_id": "00036",
+            "make": "BMW",
+            "model": "Cruze",
+            "year": 2020,
+            "color": "Silver",
+            "rental_price_per_day": 95,
+            "availability": false
+        },
+        {
+            "car_id": "00037",
+            "make": "Honda",
+            "model": "Focus",
+            "year": 2016,
+            "color": "Blue",
+            "rental_price_per_day": 58,
+            "availability": true
+        },
+        {
+            "car_id": "00038",
+            "make": "BMW",
+            "model": "Malibu",
+            "year": 2016,
+            "color": "White",
+            "rental_price_per_day": 100,
+            "availability": true
+        },
+        {
+            "car_id": "00039",
+            "make": "Honda",
+            "model": "CR-V",
+            "year": 2016,
+            "color": "Blue",
+            "rental_price_per_day": 42,
+            "availability": true
+        },
+        {
+            "car_id": "00040",
+            "make": "Toyota",
+            "model": "Malibu",
+            "year": 2015,
+            "color": "Blue",
+            "rental_price_per_day": 97,
+            "availability": true
+        },
+        {
+            "car_id": "00041",
+            "make": "Honda",
+            "model": "Prius",
+            "year": 2017,
+            "color": "Grey",
+            "rental_price_per_day": 79,
+            "availability": true
+        },
+        {
+            "car_id": "00042",
+            "make": "BMW",
+            "model": "Impala",
+            "year": 2017,
+            "color": "Red",
+            "rental_price_per_day": 43,
+            "availability": true
+        },
+        {
+            "car_id": "00043",
+            "make": "Toyota",
+            "model": "Corolla",
+            "year": 2023,
+            "color": "Silver",
+            "rental_price_per_day": 82,
+            "availability": true
+        },
+        {
+            "car_id": "00044",
+            "make": "BMW",
+            "model": "Malibu",
+            "year": 2018,
+            "color": "Red",
+            "rental_price_per_day": 54,
+            "availability": true
+        },
+        {
+            "car_id": "00045",
+            "make": "BMW",
+            "model": "X5",
+            "year": 2021,
+            "color": "Silver",
+            "rental_price_per_day": 98,
+            "availability": true
+        },
+        {
+            "car_id": "00046",
+            "make": "Toyota",
+            "model": "X5",
+            "year": 2015,
+            "color": "Silver",
+            "rental_price_per_day": 73,
+            "availability": true
+        },
+        {
+            "car_id": "00047",
+            "make": "Toyota",
+            "model": "320i",
+            "year": 2023,
+            "color": "Grey",
+            "rental_price_per_day": 95,
+            "availability": true
+        },
+        {
+            "car_id": "00048",
+            "make": "Chevrolet",
+            "model": "320i",
+            "year": 2016,
+            "color": "Grey",
+            "rental_price_per_day": 83,
+            "availability": false
+        },
+        {
+            "car_id": "00049",
+            "make": "Honda",
+            "model": "Prius",
+            "year": 2015,
+            "color": "Grey",
+            "rental_price_per_day": 70,
+            "availability": true
+        },
+        {
+            "car_id": "00050",
+            "make": "Ford",
+            "model": "X5",
+            "year": 2018,
+            "color": "Blue",
+            "rental_price_per_day": 77,
+            "availability": false
+        }
+    ],
+    "customers": [
+        {
+            "customer_id": "00001",
+            "first_name": "Garrett",
+            "last_name": "Carter",
+            "email": "phillipsaustin@douglas-bartlett.info",
+            "phone_number": "040-918-6153",
+            "date_of_birth": "1993-04-15",
+            "license_number": "54-J530",
+            "address": "6028 Ann Ridge Apt. 258 Port Cynthiafurt, IL 22503",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00002",
+            "first_name": "Lisa",
+            "last_name": "Sanchez",
+            "email": "smelton@brown.info",
+            "phone_number": "168.620.1843",
+            "date_of_birth": "1959-05-01",
+            "license_number": "RYD 558",
+            "address": "296 Heather Camp Apt. 295 Port Shawn, NC 85768",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00003",
+            "first_name": "Melissa",
+            "last_name": "Sanders",
+            "email": "anthony62@miller.com",
+            "phone_number": "001-853-614-8789x395",
+            "date_of_birth": "1998-01-27",
+            "license_number": "7M O9219",
+            "address": "358 Dominique Summit Apt. 368 New Michelle, WI 29540",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00004",
+            "first_name": "Sean",
+            "last_name": "Evans",
+            "email": "jillperry@houston.biz",
+            "phone_number": "113.657.7240x69431",
+            "date_of_birth": "2004-11-19",
+            "license_number": "NPG 926",
+            "address": "USNS Joseph FPO AE 08588",
+            "rented_car_id": "00042"
+        },
+        {
+            "customer_id": "00005",
+            "first_name": "Michael",
+            "last_name": "Moreno",
+            "email": "nkelley@campos-weber.org",
+            "phone_number": "406.701.5964x7551",
+            "date_of_birth": "1958-09-19",
+            "license_number": "5LXY 12",
+            "address": "621 Ryan Spurs Port Anna, IN 75915",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00006",
+            "first_name": "Jason",
+            "last_name": "Hernandez",
+            "email": "ganderson@gibson-jones.com",
+            "phone_number": "1524419137",
+            "date_of_birth": "1974-03-24",
+            "license_number": "5Z G8846",
+            "address": "18285 Smith Square Suite 015 East Eric, MN 44971",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00007",
+            "first_name": "Alan",
+            "last_name": "Anderson",
+            "email": "ksmith@nelson.com",
+            "phone_number": "+1-640-156-1938x2340",
+            "date_of_birth": "1955-12-06",
+            "license_number": "7077 JE",
+            "address": "095 Andrea Oval Suite 719 Leestad, MN 23363",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00008",
+            "first_name": "Michael",
+            "last_name": "Pitts",
+            "email": "rebecca89@stone.com",
+            "phone_number": "417-964-1157x03028",
+            "date_of_birth": "1997-07-11",
+            "license_number": "972-NBZ",
+            "address": "111 Catherine Mission West Nicholasfurt, IN 19103",
+            "rented_car_id": "00047"
+        },
+        {
+            "customer_id": "00009",
+            "first_name": "Brent",
+            "last_name": "Ward",
+            "email": "juarezkevin@gmail.com",
+            "phone_number": "920.525.4119",
+            "date_of_birth": "1999-10-19",
+            "license_number": "87U MP3",
+            "address": "377 Moyer Creek Apt. 828 North Stephanie, LA 63299",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00010",
+            "first_name": "Vanessa",
+            "last_name": "Thornton",
+            "email": "john25@ross.com",
+            "phone_number": "588-199-7894x1975",
+            "date_of_birth": "1980-01-20",
+            "license_number": "7OJ90",
+            "address": "USNV Lee FPO AP 98783",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00011",
+            "first_name": "Kyle",
+            "last_name": "Perry",
+            "email": "maryhudson@yahoo.com",
+            "phone_number": "101-910-8418",
+            "date_of_birth": "1967-01-02",
+            "license_number": "80H\u2022325",
+            "address": "6003 Peterson Hills Suite 995 West Zachary, CT 11133",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00012",
+            "first_name": "Ruth",
+            "last_name": "Martin",
+            "email": "heather08@phillips.com",
+            "phone_number": "(850)885-7328",
+            "date_of_birth": "1959-09-09",
+            "license_number": "8N SM522",
+            "address": "37551 Samuel Stravenue Suite 541 Makaylaview, MO 51138",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00013",
+            "first_name": "Vanessa",
+            "last_name": "Atkinson",
+            "email": "mdixon@gmail.com",
+            "phone_number": "001-186-423-8614x2918",
+            "date_of_birth": "1992-04-09",
+            "license_number": "LUK 450",
+            "address": "028 Cummings Pine Apt. 245 Gibsonport, NM 00920",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00014",
+            "first_name": "Joshua",
+            "last_name": "Silva",
+            "email": "nathankhan@gmail.com",
+            "phone_number": "(880)442-2144",
+            "date_of_birth": "1996-04-25",
+            "license_number": "125 REP",
+            "address": "2799 Jack Knoll Lake Sierra, CO 04148",
+            "rented_car_id": "00043"
+        },
+        {
+            "customer_id": "00015",
+            "first_name": "Kyle",
+            "last_name": "Dickerson",
+            "email": "johnsimon@hotmail.com",
+            "phone_number": "001-728-110-4832",
+            "date_of_birth": "1970-05-29",
+            "license_number": "XJE-1308",
+            "address": "9836 Janet Falls Suite 007 Donovanland, OK 30353",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00016",
+            "first_name": "Ashley",
+            "last_name": "Noble",
+            "email": "richard41@yahoo.com",
+            "phone_number": "4872824596",
+            "date_of_birth": "1994-03-17",
+            "license_number": "TDM 770",
+            "address": "0326 Morris Lock Suite 281 North Jeffrey, NV 66528",
+            "rented_car_id": "00015"
+        },
+        {
+            "customer_id": "00017",
+            "first_name": "Rachel",
+            "last_name": "Vaughn",
+            "email": "heidi35@gutierrez.com",
+            "phone_number": "705.903.1399x351",
+            "date_of_birth": "1966-04-11",
+            "license_number": "CU0 1378",
+            "address": "41214 Scott Alley Apt. 349 Chapmanland, PA 62677",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00018",
+            "first_name": "Denise",
+            "last_name": "Thompson",
+            "email": "jessicawilson@hotmail.com",
+            "phone_number": "125-932-8799",
+            "date_of_birth": "1979-09-02",
+            "license_number": "9N Q0572",
+            "address": "USNV Stewart FPO AP 36365",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00019",
+            "first_name": "Caleb",
+            "last_name": "Russo",
+            "email": "urush@yahoo.com",
+            "phone_number": "(992)658-4245x8349",
+            "date_of_birth": "1957-07-28",
+            "license_number": "DN 68943",
+            "address": "5919 William Islands Patriciamouth, NM 13777",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00020",
+            "first_name": "April",
+            "last_name": "Lin",
+            "email": "hernandezphillip@yahoo.com",
+            "phone_number": "001-267-369-6240",
+            "date_of_birth": "1988-06-29",
+            "license_number": "071 OYK",
+            "address": "19476 Chavez Mill South Courtneyland, NH 29428",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00021",
+            "first_name": "George",
+            "last_name": "Moss",
+            "email": "brenda27@craig.com",
+            "phone_number": "517-587-6834x21409",
+            "date_of_birth": "1994-08-05",
+            "license_number": "230K",
+            "address": "004 Belinda Knolls Suite 770 New Richard, NE 19924",
+            "rented_car_id": "00041"
+        },
+        {
+            "customer_id": "00022",
+            "first_name": "James",
+            "last_name": "Collins",
+            "email": "joelthomas@gmail.com",
+            "phone_number": "783-997-6415x929",
+            "date_of_birth": "1993-09-22",
+            "license_number": "240 QUZ",
+            "address": "5045 Ryan Drive Apt. 936 South Shelley, MA 02982",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00023",
+            "first_name": "George",
+            "last_name": "Leonard",
+            "email": "schmidtjennifer@abbott.com",
+            "phone_number": "962.930.3039x90088",
+            "date_of_birth": "1974-04-26",
+            "license_number": "4K U1108",
+            "address": "6194 Casey Lock Suite 082 South Thomas, WV 81673",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00024",
+            "first_name": "David",
+            "last_name": "Hamilton",
+            "email": "rthompson@yahoo.com",
+            "phone_number": "(691)483-2428",
+            "date_of_birth": "1968-04-17",
+            "license_number": "671-CPA",
+            "address": "05335 Saunders Cliffs Suite 492 Lake Adam, MS 72235",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00025",
+            "first_name": "Lisa",
+            "last_name": "Nelson",
+            "email": "mitchell18@snyder-jordan.com",
+            "phone_number": "(176)536-6837x5997",
+            "date_of_birth": "1965-06-07",
+            "license_number": "B10 2ZH",
+            "address": "54410 Melissa Circles Port Aaron, ID 18186",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00026",
+            "first_name": "Sarah",
+            "last_name": "Kaiser",
+            "email": "kennedykayla@hotmail.com",
+            "phone_number": "829-553-7311x9605",
+            "date_of_birth": "2002-10-12",
+            "license_number": "158 BW7",
+            "address": "1643 Gregory Shore Suite 171 East Stevenstad, IL 26990",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00027",
+            "first_name": "Heather",
+            "last_name": "Anderson",
+            "email": "martinezlinda@anderson-cobb.com",
+            "phone_number": "+1-489-707-6109",
+            "date_of_birth": "1969-07-08",
+            "license_number": "76N ZP7",
+            "address": "306 Jeremy Expressway Owensshire, MI 73637",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00028",
+            "first_name": "Alyssa",
+            "last_name": "Becker",
+            "email": "lcox@martin-garcia.com",
+            "phone_number": "001-694-707-1002",
+            "date_of_birth": "1965-05-26",
+            "license_number": "EOI T05",
+            "address": "43992 John Place Josefurt, NH 09556",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00029",
+            "first_name": "Mary",
+            "last_name": "Moreno",
+            "email": "kaylabrown@campbell.com",
+            "phone_number": "+1-104-977-6970x44425",
+            "date_of_birth": "1971-10-03",
+            "license_number": "2PM 474",
+            "address": "98217 Sanford Crossing Lake Heidiland, ID 18103",
+            "rented_car_id": "00031"
+        },
+        {
+            "customer_id": "00030",
+            "first_name": "Angela",
+            "last_name": "Hatfield",
+            "email": "grimestracy@woods.net",
+            "phone_number": "+1-509-515-1454",
+            "date_of_birth": "1972-12-25",
+            "license_number": "H81 6ON",
+            "address": "PSC 2387, Box 1698 APO AA 47435",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00031",
+            "first_name": "Katherine",
+            "last_name": "Anderson",
+            "email": "joseph44@hotmail.com",
+            "phone_number": "881.370.7055x0037",
+            "date_of_birth": "2000-08-28",
+            "license_number": "CWE 5212",
+            "address": "111 Nathan Glens Cherylton, WV 21878",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00032",
+            "first_name": "Whitney",
+            "last_name": "Hernandez",
+            "email": "vgriffith@hotmail.com",
+            "phone_number": "440-952-8155x579",
+            "date_of_birth": "1979-06-17",
+            "license_number": "68-62255",
+            "address": "574 Charles Lake Tonyaberg, NV 29266",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00033",
+            "first_name": "Jane",
+            "last_name": "Thompson",
+            "email": "cheryl94@yahoo.com",
+            "phone_number": "001-216-755-6810x57554",
+            "date_of_birth": "2000-11-09",
+            "license_number": "CSN-0319",
+            "address": "PSC 1322, Box 5953 APO AA 45819",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00034",
+            "first_name": "Jacob",
+            "last_name": "Larson",
+            "email": "villajoshua@gmail.com",
+            "phone_number": "(011)304-6599x52799",
+            "date_of_birth": "2005-02-14",
+            "license_number": "HPM 549",
+            "address": "6224 Herman Shores Suite 865 West Madison, AR 01331",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00035",
+            "first_name": "Ann",
+            "last_name": "Torres",
+            "email": "vhunt@hotmail.com",
+            "phone_number": "(158)009-8720x0390",
+            "date_of_birth": "1989-11-21",
+            "license_number": "4G T4581",
+            "address": "8782 Makayla Forge Apt. 965 Berryland, NJ 59614",
+            "rented_car_id": "00014"
+        },
+        {
+            "customer_id": "00036",
+            "first_name": "John",
+            "last_name": "Caldwell",
+            "email": "johnnygarcia@taylor.com",
+            "phone_number": "195-207-4582",
+            "date_of_birth": "1993-10-12",
+            "license_number": "EFM 090",
+            "address": "113 Adrian Glens Lake Rodneystad, NY 43745",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00037",
+            "first_name": "Michael",
+            "last_name": "Perez",
+            "email": "catherinemcdonald@martinez.com",
+            "phone_number": "(050)451-7829",
+            "date_of_birth": "1958-08-01",
+            "license_number": "AS 6550",
+            "address": "4860 Alvarez Loaf Apt. 162 Aprilfort, AK 82053",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00038",
+            "first_name": "Thomas",
+            "last_name": "Stewart",
+            "email": "fischeremily@hotmail.com",
+            "phone_number": "+1-642-764-1593x320",
+            "date_of_birth": "1978-09-29",
+            "license_number": "636-BLYP",
+            "address": "308 Thompson Gateway Williamsborough, AZ 85050",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00039",
+            "first_name": "Robert",
+            "last_name": "Baxter",
+            "email": "rnash@hotmail.com",
+            "phone_number": "001-376-095-3325",
+            "date_of_birth": "1988-06-07",
+            "license_number": "YF 33637",
+            "address": "USNV Scott FPO AP 51395",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00040",
+            "first_name": "April",
+            "last_name": "Guerrero",
+            "email": "cmartinez@gardner-harris.com",
+            "phone_number": "(628)767-2581",
+            "date_of_birth": "1981-08-01",
+            "license_number": "I32 2IL",
+            "address": "6302 Cassandra View South Miguel, NE 66100",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00041",
+            "first_name": "Jill",
+            "last_name": "Hall",
+            "email": "ytucker@carney-sellers.com",
+            "phone_number": "(715)662-2827x81878",
+            "date_of_birth": "2004-01-01",
+            "license_number": "2M 3H8LSS",
+            "address": "555 Thomas Shoal Apt. 100 Jenniferside, NJ 87548",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00042",
+            "first_name": "Louis",
+            "last_name": "White",
+            "email": "angela28@molina.org",
+            "phone_number": "394.903.2368",
+            "date_of_birth": "1971-09-26",
+            "license_number": "DK6 2068",
+            "address": "42960 Vega Place Suite 803 West Tracymouth, WA 79118",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00043",
+            "first_name": "Randy",
+            "last_name": "Wright",
+            "email": "davidwarner@hayes.com",
+            "phone_number": "001-494-833-8581",
+            "date_of_birth": "1967-10-10",
+            "license_number": "L43 9KT",
+            "address": "97895 Robert Fort West Jennifertown, TX 86153",
+            "rented_car_id": "00022"
+        },
+        {
+            "customer_id": "00044",
+            "first_name": "James",
+            "last_name": "Ross",
+            "email": "icox@hotmail.com",
+            "phone_number": "+1-429-611-7582x90969",
+            "date_of_birth": "1973-07-15",
+            "license_number": "TTM 713",
+            "address": "76271 Kristen Well Suite 391 Port Brent, KS 37754",
+            "rented_car_id": "00042"
+        },
+        {
+            "customer_id": "00045",
+            "first_name": "Connie",
+            "last_name": "Sanchez",
+            "email": "robrien@gmail.com",
+            "phone_number": "(832)340-5538",
+            "date_of_birth": "2005-02-22",
+            "license_number": "81M 737",
+            "address": "181 Brown Road Suite 912 Cruzbury, VT 82731",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00046",
+            "first_name": "Mary",
+            "last_name": "Rivas",
+            "email": "colescott@chung.org",
+            "phone_number": "(158)712-7446x997",
+            "date_of_birth": "1972-08-03",
+            "license_number": "799 DLH",
+            "address": "708 Nelson Vista Apt. 412 South Tinastad, MN 78008",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00047",
+            "first_name": "Kelly",
+            "last_name": "Brooks",
+            "email": "kathleen69@olson.net",
+            "phone_number": "+1-676-746-6598",
+            "date_of_birth": "1989-09-21",
+            "license_number": "Y72 9QA",
+            "address": "332 Clark River Laurietown, IL 38883",
+            "rented_car_id": "00038"
+        },
+        {
+            "customer_id": "00048",
+            "first_name": "Christopher",
+            "last_name": "Campbell",
+            "email": "qgarcia@hotmail.com",
+            "phone_number": "001-610-928-3443x744",
+            "date_of_birth": "1984-08-25",
+            "license_number": "DMV0698",
+            "address": "83466 Lewis Fields Suite 528 New Paul, DE 35942",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00049",
+            "first_name": "Jennifer",
+            "last_name": "Cook",
+            "email": "juliathompson@gmail.com",
+            "phone_number": "001-478-036-7210x1895",
+            "date_of_birth": "1965-06-08",
+            "license_number": "ZKS 905",
+            "address": "65802 Townsend Land Apt. 576 Wallacemouth, WY 35539",
+            "rented_car_id": "00037"
+        },
+        {
+            "customer_id": "00050",
+            "first_name": "Adam",
+            "last_name": "Harris",
+            "email": "michaelhill@yahoo.com",
+            "phone_number": "884.606.8145",
+            "date_of_birth": "1964-10-10",
+            "license_number": "4-G2870",
+            "address": "88717 Trevor Station Apt. 492 New Michelleside, RI 50366",
+            "rented_car_id": "00048"
+        },
+        {
+            "customer_id": "00051",
+            "first_name": "Tammy",
+            "last_name": "Miller",
+            "email": "williamsjamie@lane.org",
+            "phone_number": "(614)062-3959x0346",
+            "date_of_birth": "1959-11-07",
+            "license_number": "054 SK0",
+            "address": "986 Bond Lodge Suite 741 South Reginaport, MS 25029",
+            "rented_car_id": "00041"
+        },
+        {
+            "customer_id": "00052",
+            "first_name": "David",
+            "last_name": "Alvarez",
+            "email": "steven76@dennis.biz",
+            "phone_number": "156.829.8177x2330",
+            "date_of_birth": "1969-12-28",
+            "license_number": "765 EVH",
+            "address": "115 Andrew Point Apt. 528 Johntown, ID 36894",
+            "rented_car_id": "00014"
+        },
+        {
+            "customer_id": "00053",
+            "first_name": "Emily",
+            "last_name": "Lam",
+            "email": "kaitlinrichards@davis-bautista.com",
+            "phone_number": "387.654.0157x02732",
+            "date_of_birth": "1997-12-07",
+            "license_number": "RW-4867",
+            "address": "Unit 9886 Box 9859 DPO AP 29948",
+            "rented_car_id": "00004"
+        },
+        {
+            "customer_id": "00054",
+            "first_name": "Alejandra",
+            "last_name": "Rodriguez",
+            "email": "lauren19@yahoo.com",
+            "phone_number": "201.572.9826x06589",
+            "date_of_birth": "1958-06-04",
+            "license_number": "367B",
+            "address": "1545 Hull Ramp Suite 934 Marystad, MA 87781",
+            "rented_car_id": "00012"
+        },
+        {
+            "customer_id": "00055",
+            "first_name": "Bruce",
+            "last_name": "Simpson",
+            "email": "falexander@williams.biz",
+            "phone_number": "753-111-3936x2892",
+            "date_of_birth": "1984-11-07",
+            "license_number": "O 225028",
+            "address": "439 Sutton Spring West Richardfurt, MS 05958",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00056",
+            "first_name": "Michael",
+            "last_name": "Robinson",
+            "email": "geoffreywalker@gmail.com",
+            "phone_number": "001-928-603-4512",
+            "date_of_birth": "1960-05-25",
+            "license_number": "Z 779644",
+            "address": "PSC 8219, Box 8065 APO AP 23708",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00057",
+            "first_name": "Christie",
+            "last_name": "Smith",
+            "email": "griffithdylan@farley-carroll.com",
+            "phone_number": "(673)766-4423x0949",
+            "date_of_birth": "1979-12-01",
+            "license_number": "ZJE 885",
+            "address": "154 Perez View Emilyberg, GA 09681",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00058",
+            "first_name": "Joseph",
+            "last_name": "Daniels",
+            "email": "michellestanley@gmail.com",
+            "phone_number": "046.644.9418x12707",
+            "date_of_birth": "2001-10-09",
+            "license_number": "079 SAQ",
+            "address": "2639 Joseph Fall Apt. 135 West Gwendolyn, CT 42991",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00059",
+            "first_name": "Laura",
+            "last_name": "Pittman",
+            "email": "shawnthomas@hotmail.com",
+            "phone_number": "+1-960-108-8417x692",
+            "date_of_birth": "1959-02-04",
+            "license_number": "0P MH475",
+            "address": "15467 Michael Hill Apt. 523 Christensenfort, MA 82298",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00060",
+            "first_name": "Amy",
+            "last_name": "Snyder",
+            "email": "amanda91@smith.net",
+            "phone_number": "(979)321-1699x05064",
+            "date_of_birth": "1978-12-11",
+            "license_number": "AAJ 181",
+            "address": "067 Cross Motorway Apt. 944 Diazfort, FL 42355",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00061",
+            "first_name": "Lonnie",
+            "last_name": "Davies",
+            "email": "donaldcabrera@hotmail.com",
+            "phone_number": "8426444026",
+            "date_of_birth": "1972-02-16",
+            "license_number": "JQA 684",
+            "address": "329 Suarez Cliffs New Tashafort, CT 05387",
+            "rented_car_id": "00026"
+        },
+        {
+            "customer_id": "00062",
+            "first_name": "Trevor",
+            "last_name": "Henderson",
+            "email": "boltonjoshua@gmail.com",
+            "phone_number": "9526171229",
+            "date_of_birth": "1969-06-12",
+            "license_number": "297 FA6",
+            "address": "0034 Ferguson Locks South Curtisstad, WI 87044",
+            "rented_car_id": "00050"
+        },
+        {
+            "customer_id": "00063",
+            "first_name": "Robert",
+            "last_name": "Andersen",
+            "email": "rosarioricardo@gmail.com",
+            "phone_number": "278-410-8594",
+            "date_of_birth": "1978-01-08",
+            "license_number": "74G C68",
+            "address": "898 Luke Knolls Apt. 409 Lake Carrie, HI 89721",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00064",
+            "first_name": "Morgan",
+            "last_name": "Sawyer",
+            "email": "suttoncourtney@yahoo.com",
+            "phone_number": "001-597-297-1473x3817",
+            "date_of_birth": "1978-07-28",
+            "license_number": "83Y S73",
+            "address": "459 Aaron Rapid Apt. 136 West Eric, NV 22542",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00065",
+            "first_name": "Andrew",
+            "last_name": "Roberts",
+            "email": "beltransandra@yahoo.com",
+            "phone_number": "6238616477",
+            "date_of_birth": "1966-01-01",
+            "license_number": "37B TX6",
+            "address": "1747 Harmon Branch Lake Madelinechester, AK 37710",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00066",
+            "first_name": "Madison",
+            "last_name": "Hill",
+            "email": "richard13@hotmail.com",
+            "phone_number": "(979)409-3179x3190",
+            "date_of_birth": "1996-04-23",
+            "license_number": "723 4343",
+            "address": "USNS Romero FPO AA 04544",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00067",
+            "first_name": "Tina",
+            "last_name": "Sanchez",
+            "email": "hannahlee@jones.com",
+            "phone_number": "(499)485-6809x009",
+            "date_of_birth": "1954-11-17",
+            "license_number": "30X 6653",
+            "address": "3950 Lynn Landing Apt. 823 Katherineland, NH 28409",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00068",
+            "first_name": "Chelsea",
+            "last_name": "Holden",
+            "email": "teresaweiss@robinson.org",
+            "phone_number": "1882559417",
+            "date_of_birth": "1959-01-16",
+            "license_number": "CCO 362",
+            "address": "74116 Soto Run Apt. 029 Heathermouth, WI 50920",
+            "rented_car_id": "00014"
+        },
+        {
+            "customer_id": "00069",
+            "first_name": "Makayla",
+            "last_name": "Mcconnell",
+            "email": "kristin59@rodriguez.com",
+            "phone_number": "001-756-853-1106x21133",
+            "date_of_birth": "2002-10-03",
+            "license_number": "015 4KX",
+            "address": "USCGC Jones FPO AA 52341",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00070",
+            "first_name": "Wesley",
+            "last_name": "Silva",
+            "email": "sheltonangela@gmail.com",
+            "phone_number": "845-027-7058x2575",
+            "date_of_birth": "1964-12-22",
+            "license_number": "HRS 042",
+            "address": "95567 Flowers Gardens Apt. 845 South Thomas, UT 50823",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00071",
+            "first_name": "Jimmy",
+            "last_name": "Olson",
+            "email": "antonio27@miles.com",
+            "phone_number": "001-359-846-3147",
+            "date_of_birth": "1974-10-05",
+            "license_number": "4-77350N",
+            "address": "61317 Little Village Danielmouth, IA 10777",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00072",
+            "first_name": "Elizabeth",
+            "last_name": "Moreno",
+            "email": "jamiedavis@gmail.com",
+            "phone_number": "001-926-793-0913x48303",
+            "date_of_birth": "2004-06-20",
+            "license_number": "940YSP",
+            "address": "2237 Cook Spurs Mayfort, IN 80424",
+            "rented_car_id": "00011"
+        },
+        {
+            "customer_id": "00073",
+            "first_name": "Sara",
+            "last_name": "Hernandez",
+            "email": "george98@gmail.com",
+            "phone_number": "+1-780-963-0183",
+            "date_of_birth": "1981-08-13",
+            "license_number": "DIW I71",
+            "address": "3133 Michael Estate Suite 208 Clarkside, WI 00774",
+            "rented_car_id": "00003"
+        },
+        {
+            "customer_id": "00074",
+            "first_name": "Michael",
+            "last_name": "Hart",
+            "email": "bscott@hotmail.com",
+            "phone_number": "471.516.2916x9129",
+            "date_of_birth": "1976-02-10",
+            "license_number": "MIR 117",
+            "address": "9736 Contreras View Suite 060 Smithview, AL 22058",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00075",
+            "first_name": "Kristin",
+            "last_name": "Sharp",
+            "email": "millerkatherine@evans-hill.com",
+            "phone_number": "(128)174-3663x37060",
+            "date_of_birth": "1963-10-24",
+            "license_number": "HDA 266",
+            "address": "8302 Peter Drive Thomasland, TX 85612",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00076",
+            "first_name": "Matthew",
+            "last_name": "Phillips",
+            "email": "jacquelinemccann@harrison.biz",
+            "phone_number": "117-549-0005x9197",
+            "date_of_birth": "1952-09-07",
+            "license_number": "06TV5",
+            "address": "5091 Harris Ville Apt. 447 Jackhaven, TN 08462",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00077",
+            "first_name": "Jerry",
+            "last_name": "Riley",
+            "email": "albert67@santiago.net",
+            "phone_number": "(894)641-0980",
+            "date_of_birth": "1982-08-30",
+            "license_number": "XC 4027",
+            "address": "0582 Nicholas Groves Apt. 852 Carolburgh, AL 89707",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00078",
+            "first_name": "Sharon",
+            "last_name": "Callahan",
+            "email": "iburke@yahoo.com",
+            "phone_number": "001-801-828-0518x2694",
+            "date_of_birth": "1994-07-29",
+            "license_number": "QIV 6799",
+            "address": "523 Janice Neck Apt. 433 Wongton, GA 73185",
+            "rented_car_id": "00042"
+        },
+        {
+            "customer_id": "00079",
+            "first_name": "Jason",
+            "last_name": "Choi",
+            "email": "andersonkaren@hunter.com",
+            "phone_number": "343-887-7076",
+            "date_of_birth": "1956-05-28",
+            "license_number": "237 CAY",
+            "address": "1778 Rachel Road Wongton, WI 64796",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00080",
+            "first_name": "Robert",
+            "last_name": "Bonilla",
+            "email": "russell22@davidson.com",
+            "phone_number": "133.132.6133",
+            "date_of_birth": "1967-04-11",
+            "license_number": "VNW-140",
+            "address": "5898 Wade Drive Steveshire, PA 76026",
+            "rented_car_id": "00018"
+        },
+        {
+            "customer_id": "00081",
+            "first_name": "Kimberly",
+            "last_name": "Murphy",
+            "email": "rileyallison@turner.com",
+            "phone_number": "500.868.1200x38845",
+            "date_of_birth": "1968-10-14",
+            "license_number": "3J OK764",
+            "address": "977 Joseph Road Suite 044 Lake Sarah, MA 67296",
+            "rented_car_id": "00017"
+        },
+        {
+            "customer_id": "00082",
+            "first_name": "Erica",
+            "last_name": "Perkins",
+            "email": "smithrobert@hotmail.com",
+            "phone_number": "950-045-4859",
+            "date_of_birth": "1988-02-15",
+            "license_number": "719 5SY",
+            "address": "940 James Camp Apt. 185 Lake Ruth, NV 61685",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00083",
+            "first_name": "Michelle",
+            "last_name": "Lopez",
+            "email": "keithwebb@clark.info",
+            "phone_number": "+1-578-818-7338x1830",
+            "date_of_birth": "1976-02-19",
+            "license_number": "B94 9VW",
+            "address": "1955 Amy Track Daviston, RI 40343",
+            "rented_car_id": "00013"
+        },
+        {
+            "customer_id": "00084",
+            "first_name": "Jennifer",
+            "last_name": "Hill",
+            "email": "peggypearson@hotmail.com",
+            "phone_number": "046.553.3401x076",
+            "date_of_birth": "1960-04-04",
+            "license_number": "BHY 445",
+            "address": "2493 Barbara Groves Ortizbury, VA 04692",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00085",
+            "first_name": "Danielle",
+            "last_name": "Williams",
+            "email": "julie36@alvarado-foster.com",
+            "phone_number": "237-576-1887x791",
+            "date_of_birth": "1970-12-30",
+            "license_number": "338 3828",
+            "address": "49220 Wilson Lane Apt. 808 Williamschester, CT 76496",
+            "rented_car_id": "00041"
+        },
+        {
+            "customer_id": "00086",
+            "first_name": "Misty",
+            "last_name": "Holmes",
+            "email": "amyshea@scott-dunn.com",
+            "phone_number": "761.656.4486x19146",
+            "date_of_birth": "1956-02-02",
+            "license_number": "7Q624",
+            "address": "940 Melissa Grove Matthewland, ME 24479",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00087",
+            "first_name": "Matthew",
+            "last_name": "Cox",
+            "email": "norrischristopher@yahoo.com",
+            "phone_number": "060.420.2479",
+            "date_of_birth": "1977-01-31",
+            "license_number": "11DT5",
+            "address": "235 Day Inlet Suite 659 Erikastad, VA 39445",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00088",
+            "first_name": "Emily",
+            "last_name": "Moore",
+            "email": "mdavis@gomez-jones.com",
+            "phone_number": "255-187-3003x1030",
+            "date_of_birth": "1970-10-01",
+            "license_number": "FA1 X5R",
+            "address": "9328 Hardy Circle Apt. 164 Gordontown, DC 74853",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00089",
+            "first_name": "Audrey",
+            "last_name": "Adams",
+            "email": "iadams@gmail.com",
+            "phone_number": "819-744-3705x97572",
+            "date_of_birth": "1993-11-18",
+            "license_number": "624 8UK",
+            "address": "7803 Alvarado Parkway Suite 296 East Clinton, CT 39661",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00090",
+            "first_name": "Robert",
+            "last_name": "Edwards",
+            "email": "qsmith@harding-mckee.info",
+            "phone_number": "001-490-166-9572x782",
+            "date_of_birth": "1975-07-04",
+            "license_number": "TOV-9920",
+            "address": "413 Anderson Oval Apt. 424 Maryport, AL 49909",
+            "rented_car_id": "00005"
+        },
+        {
+            "customer_id": "00091",
+            "first_name": "Brandon",
+            "last_name": "Frederick",
+            "email": "sarah86@gmail.com",
+            "phone_number": "+1-914-413-5684",
+            "date_of_birth": "1989-11-07",
+            "license_number": "UG 86727",
+            "address": "3912 Heather Plains Ellisborough, MS 92744",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00092",
+            "first_name": "Carolyn",
+            "last_name": "Brown",
+            "email": "carolyn09@bryan.net",
+            "phone_number": "001-414-000-1576x17547",
+            "date_of_birth": "2000-01-11",
+            "license_number": "203-LLZ",
+            "address": "7467 Holt Points Port Wyatt, NJ 24090",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00093",
+            "first_name": "Jennifer",
+            "last_name": "Johnson",
+            "email": "iconley@yahoo.com",
+            "phone_number": "830.338.5106",
+            "date_of_birth": "1961-08-10",
+            "license_number": "141 ZWT",
+            "address": "92684 Harding Walks Higginsborough, IN 93521",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00094",
+            "first_name": "Terri",
+            "last_name": "Leon",
+            "email": "sarahwilliams@stone.com",
+            "phone_number": "001-311-450-1637x1750",
+            "date_of_birth": "1960-09-30",
+            "license_number": "457-VSZ",
+            "address": "14797 Timothy Union Victoriaborough, AL 78723",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00095",
+            "first_name": "Laura",
+            "last_name": "Armstrong",
+            "email": "gwright@gmail.com",
+            "phone_number": "(042)862-2367x1898",
+            "date_of_birth": "2001-09-27",
+            "license_number": "299 WLB",
+            "address": "468 Marcus Mount Apt. 611 Gregborough, AK 12991",
+            "rented_car_id": "00034"
+        },
+        {
+            "customer_id": "00096",
+            "first_name": "Kimberly",
+            "last_name": "Parks",
+            "email": "sherrylozano@hotmail.com",
+            "phone_number": "+1-875-884-6127x5159",
+            "date_of_birth": "2000-11-02",
+            "license_number": "375 XFM",
+            "address": "222 Marissa Lodge Suite 154 Millermouth, SD 30902",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00097",
+            "first_name": "Ashley",
+            "last_name": "Alvarez",
+            "email": "sandra38@yahoo.com",
+            "phone_number": "210.268.3421",
+            "date_of_birth": "1983-10-24",
+            "license_number": "894 ABS",
+            "address": "4659 Sarah Square Suite 371 Port Elizabethmouth, MA 91743",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00098",
+            "first_name": "Angela",
+            "last_name": "Hernandez",
+            "email": "david86@scott.com",
+            "phone_number": "001-614-551-1984x1182",
+            "date_of_birth": "1969-09-30",
+            "license_number": "024 QUN",
+            "address": "25464 Pena Fork Bendershire, TN 61972",
+            "rented_car_id": "00011"
+        },
+        {
+            "customer_id": "00099",
+            "first_name": "Sarah",
+            "last_name": "Schwartz",
+            "email": "hpetty@kennedy-stanley.com",
+            "phone_number": "395.824.2356x970",
+            "date_of_birth": "1999-07-22",
+            "license_number": "0BX 153",
+            "address": "90739 Mccormick Locks Terrimouth, VA 96157",
+            "rented_car_id": null
+        },
+        {
+            "customer_id": "00100",
+            "first_name": "Patricia",
+            "last_name": "Green",
+            "email": "ssanchez@gmail.com",
+            "phone_number": "879-979-4243",
+            "date_of_birth": "1999-03-18",
+            "license_number": "PE-1070",
+            "address": "50028 Weaver Fords Suite 159 Richardland, MN 44145",
+            "rented_car_id": null
+        }
+    ],
+    "rentals": [
+        {
+            "rental_id": "00001",
+            "customer_id": "00009",
+            "car_id": "00017",
+            "rental_start_date": "2023-01-16",
+            "rental_end_date": "2023-02-12",
+            "total_price": 1674
+        },
+        {
+            "rental_id": "00002",
+            "customer_id": "00095",
+            "car_id": "00038",
+            "rental_start_date": "2022-06-22",
+            "rental_end_date": "2022-07-01",
+            "total_price": 900
+        },
+        {
+            "rental_id": "00003",
+            "customer_id": "00081",
+            "car_id": "00033",
+            "rental_start_date": "2021-10-11",
+            "rental_end_date": "2021-10-29",
+            "total_price": 1620
+        },
+        {
+            "rental_id": "00004",
+            "customer_id": "00023",
+            "car_id": "00036",
+            "rental_start_date": "2022-08-13",
+            "rental_end_date": "2022-09-09",
+            "total_price": 2565
+        },
+        {
+            "rental_id": "00005",
+            "customer_id": "00058",
+            "car_id": "00039",
+            "rental_start_date": "2022-01-09",
+            "rental_end_date": "2022-01-24",
+            "total_price": 630
+        },
+        {
+            "rental_id": "00006",
+            "customer_id": "00056",
+            "car_id": "00015",
+            "rental_start_date": "2022-01-29",
+            "rental_end_date": "2022-02-05",
+            "total_price": 441
+        },
+        {
+            "rental_id": "00007",
+            "customer_id": "00052",
+            "car_id": "00027",
+            "rental_start_date": "2021-08-01",
+            "rental_end_date": "2021-08-03",
+            "total_price": 152
+        },
+        {
+            "rental_id": "00008",
+            "customer_id": "00066",
+            "car_id": "00018",
+            "rental_start_date": "2023-05-25",
+            "rental_end_date": "2023-06-01",
+            "total_price": 616
+        },
+        {
+            "rental_id": "00009",
+            "customer_id": "00014",
+            "car_id": "00003",
+            "rental_start_date": "2022-03-09",
+            "rental_end_date": "2022-03-26",
+            "total_price": 935
+        },
+        {
+            "rental_id": "00010",
+            "customer_id": "00073",
+            "car_id": "00018",
+            "rental_start_date": "2021-11-02",
+            "rental_end_date": "2021-11-24",
+            "total_price": 1936
+        },
+        {
+            "rental_id": "00011",
+            "customer_id": "00046",
+            "car_id": "00025",
+            "rental_start_date": "2023-01-29",
+            "rental_end_date": "2023-02-10",
+            "total_price": 1152
+        },
+        {
+            "rental_id": "00012",
+            "customer_id": "00002",
+            "car_id": "00007",
+            "rental_start_date": "2021-09-29",
+            "rental_end_date": "2021-10-24",
+            "total_price": 1775
+        },
+        {
+            "rental_id": "00013",
+            "customer_id": "00002",
+            "car_id": "00046",
+            "rental_start_date": "2022-05-24",
+            "rental_end_date": "2022-06-23",
+            "total_price": 2190
+        },
+        {
+            "rental_id": "00014",
+            "customer_id": "00063",
+            "car_id": "00021",
+            "rental_start_date": "2021-11-18",
+            "rental_end_date": "2021-12-05",
+            "total_price": 1615
+        },
+        {
+            "rental_id": "00015",
+            "customer_id": "00093",
+            "car_id": "00030",
+            "rental_start_date": "2022-04-04",
+            "rental_end_date": "2022-04-11",
+            "total_price": 364
+        },
+        {
+            "rental_id": "00016",
+            "customer_id": "00033",
+            "car_id": "00031",
+            "rental_start_date": "2023-07-22",
+            "rental_end_date": "2023-08-05",
+            "total_price": 1288
+        },
+        {
+            "rental_id": "00017",
+            "customer_id": "00027",
+            "car_id": "00037",
+            "rental_start_date": "2022-03-25",
+            "rental_end_date": "2022-03-31",
+            "total_price": 348
+        },
+        {
+            "rental_id": "00018",
+            "customer_id": "00004",
+            "car_id": "00012",
+            "rental_start_date": "2023-05-07",
+            "rental_end_date": "2023-05-08",
+            "total_price": 85
+        },
+        {
+            "rental_id": "00019",
+            "customer_id": "00091",
+            "car_id": "00006",
+            "rental_start_date": "2022-04-15",
+            "rental_end_date": "2022-04-21",
+            "total_price": 432
+        },
+        {
+            "rental_id": "00020",
+            "customer_id": "00051",
+            "car_id": "00001",
+            "rental_start_date": "2022-01-11",
+            "rental_end_date": "2022-02-09",
+            "total_price": 1363
+        },
+        {
+            "rental_id": "00021",
+            "customer_id": "00039",
+            "car_id": "00002",
+            "rental_start_date": "2022-12-29",
+            "rental_end_date": "2023-01-25",
+            "total_price": 1080
+        },
+        {
+            "rental_id": "00022",
+            "customer_id": "00022",
+            "car_id": "00015",
+            "rental_start_date": "2022-03-08",
+            "rental_end_date": "2022-04-01",
+            "total_price": 1512
+        },
+        {
+            "rental_id": "00023",
+            "customer_id": "00007",
+            "car_id": "00007",
+            "rental_start_date": "2023-03-26",
+            "rental_end_date": "2023-04-10",
+            "total_price": 1065
+        },
+        {
+            "rental_id": "00024",
+            "customer_id": "00064",
+            "car_id": "00013",
+            "rental_start_date": "2022-05-12",
+            "rental_end_date": "2022-05-23",
+            "total_price": 737
+        },
+        {
+            "rental_id": "00025",
+            "customer_id": "00062",
+            "car_id": "00016",
+            "rental_start_date": "2023-04-08",
+            "rental_end_date": "2023-04-26",
+            "total_price": 1566
+        },
+        {
+            "rental_id": "00026",
+            "customer_id": "00097",
+            "car_id": "00043",
+            "rental_start_date": "2022-01-28",
+            "rental_end_date": "2022-02-16",
+            "total_price": 1558
+        },
+        {
+            "rental_id": "00027",
+            "customer_id": "00094",
+            "car_id": "00044",
+            "rental_start_date": "2021-12-22",
+            "rental_end_date": "2022-01-18",
+            "total_price": 1458
+        },
+        {
+            "rental_id": "00028",
+            "customer_id": "00066",
+            "car_id": "00045",
+            "rental_start_date": "2022-02-18",
+            "rental_end_date": "2022-03-14",
+            "total_price": 2352
+        },
+        {
+            "rental_id": "00029",
+            "customer_id": "00011",
+            "car_id": "00025",
+            "rental_start_date": "2022-12-01",
+            "rental_end_date": "2022-12-14",
+            "total_price": 1248
+        },
+        {
+            "rental_id": "00030",
+            "customer_id": "00048",
+            "car_id": "00040",
+            "rental_start_date": "2023-04-16",
+            "rental_end_date": "2023-05-15",
+            "total_price": 2813
+        },
+        {
+            "rental_id": "00031",
+            "customer_id": "00094",
+            "car_id": "00020",
+            "rental_start_date": "2023-01-08",
+            "rental_end_date": "2023-01-29",
+            "total_price": 1974
+        },
+        {
+            "rental_id": "00032",
+            "customer_id": "00022",
+            "car_id": "00038",
+            "rental_start_date": "2022-09-20",
+            "rental_end_date": "2022-10-08",
+            "total_price": 1800
+        },
+        {
+            "rental_id": "00033",
+            "customer_id": "00021",
+            "car_id": "00039",
+            "rental_start_date": "2022-03-30",
+            "rental_end_date": "2022-04-26",
+            "total_price": 1134
+        },
+        {
+            "rental_id": "00034",
+            "customer_id": "00010",
+            "car_id": "00050",
+            "rental_start_date": "2021-08-25",
+            "rental_end_date": "2021-09-20",
+            "total_price": 2002
+        },
+        {
+            "rental_id": "00035",
+            "customer_id": "00040",
+            "car_id": "00024",
+            "rental_start_date": "2023-02-16",
+            "rental_end_date": "2023-02-23",
+            "total_price": 693
+        },
+        {
+            "rental_id": "00036",
+            "customer_id": "00037",
+            "car_id": "00043",
+            "rental_start_date": "2022-02-11",
+            "rental_end_date": "2022-02-22",
+            "total_price": 902
+        },
+        {
+            "rental_id": "00037",
+            "customer_id": "00049",
+            "car_id": "00028",
+            "rental_start_date": "2022-11-16",
+            "rental_end_date": "2022-11-28",
+            "total_price": 636
+        },
+        {
+            "rental_id": "00038",
+            "customer_id": "00039",
+            "car_id": "00038",
+            "rental_start_date": "2021-09-30",
+            "rental_end_date": "2021-10-24",
+            "total_price": 2400
+        },
+        {
+            "rental_id": "00039",
+            "customer_id": "00057",
+            "car_id": "00009",
+            "rental_start_date": "2022-12-25",
+            "rental_end_date": "2023-01-09",
+            "total_price": 1275
+        },
+        {
+            "rental_id": "00040",
+            "customer_id": "00031",
+            "car_id": "00015",
+            "rental_start_date": "2021-09-21",
+            "rental_end_date": "2021-10-03",
+            "total_price": 756
+        },
+        {
+            "rental_id": "00041",
+            "customer_id": "00055",
+            "car_id": "00043",
+            "rental_start_date": "2021-10-07",
+            "rental_end_date": "2021-10-21",
+            "total_price": 1148
+        },
+        {
+            "rental_id": "00042",
+            "customer_id": "00089",
+            "car_id": "00024",
+            "rental_start_date": "2023-03-09",
+            "rental_end_date": "2023-03-30",
+            "total_price": 2079
+        },
+        {
+            "rental_id": "00043",
+            "customer_id": "00037",
+            "car_id": "00044",
+            "rental_start_date": "2021-08-25",
+            "rental_end_date": "2021-09-19",
+            "total_price": 1350
+        },
+        {
+            "rental_id": "00044",
+            "customer_id": "00021",
+            "car_id": "00021",
+            "rental_start_date": "2021-12-21",
+            "rental_end_date": "2022-01-12",
+            "total_price": 2090
+        },
+        {
+            "rental_id": "00045",
+            "customer_id": "00050",
+            "car_id": "00049",
+            "rental_start_date": "2022-04-18",
+            "rental_end_date": "2022-05-17",
+            "total_price": 2030
+        },
+        {
+            "rental_id": "00046",
+            "customer_id": "00036",
+            "car_id": "00029",
+            "rental_start_date": "2022-02-10",
+            "rental_end_date": "2022-02-23",
+            "total_price": 923
+        },
+        {
+            "rental_id": "00047",
+            "customer_id": "00080",
+            "car_id": "00021",
+            "rental_start_date": "2021-10-20",
+            "rental_end_date": "2021-11-07",
+            "total_price": 1710
+        },
+        {
+            "rental_id": "00048",
+            "customer_id": "00078",
+            "car_id": "00034",
+            "rental_start_date": "2022-07-14",
+            "rental_end_date": "2022-07-23",
+            "total_price": 432
+        },
+        {
+            "rental_id": "00049",
+            "customer_id": "00043",
+            "car_id": "00007",
+            "rental_start_date": "2021-12-04",
+            "rental_end_date": "2021-12-19",
+            "total_price": 1065
+        },
+        {
+            "rental_id": "00050",
+            "customer_id": "00051",
+            "car_id": "00002",
+            "rental_start_date": "2023-06-09",
+            "rental_end_date": "2023-06-14",
+            "total_price": 200
+        },
+        {
+            "rental_id": "00051",
+            "customer_id": "00030",
+            "car_id": "00035",
+            "rental_start_date": "2023-07-27",
+            "rental_end_date": "2023-08-15",
+            "total_price": 1900
+        },
+        {
+            "rental_id": "00052",
+            "customer_id": "00067",
+            "car_id": "00042",
+            "rental_start_date": "2022-01-12",
+            "rental_end_date": "2022-01-27",
+            "total_price": 645
+        },
+        {
+            "rental_id": "00053",
+            "customer_id": "00088",
+            "car_id": "00012",
+            "rental_start_date": "2022-05-04",
+            "rental_end_date": "2022-05-21",
+            "total_price": 1445
+        },
+        {
+            "rental_id": "00054",
+            "customer_id": "00031",
+            "car_id": "00015",
+            "rental_start_date": "2021-08-27",
+            "rental_end_date": "2021-09-23",
+            "total_price": 1701
+        },
+        {
+            "rental_id": "00055",
+            "customer_id": "00097",
+            "car_id": "00048",
+            "rental_start_date": "2022-04-18",
+            "rental_end_date": "2022-05-09",
+            "total_price": 1743
+        },
+        {
+            "rental_id": "00056",
+            "customer_id": "00040",
+            "car_id": "00001",
+            "rental_start_date": "2021-11-22",
+            "rental_end_date": "2021-12-09",
+            "total_price": 799
+        },
+        {
+            "rental_id": "00057",
+            "customer_id": "00034",
+            "car_id": "00005",
+            "rental_start_date": "2021-12-02",
+            "rental_end_date": "2021-12-16",
+            "total_price": 1372
+        },
+        {
+            "rental_id": "00058",
+            "customer_id": "00051",
+            "car_id": "00042",
+            "rental_start_date": "2023-04-22",
+            "rental_end_date": "2023-04-29",
+            "total_price": 301
+        },
+        {
+            "rental_id": "00059",
+            "customer_id": "00090",
+            "car_id": "00001",
+            "rental_start_date": "2022-08-20",
+            "rental_end_date": "2022-09-18",
+            "total_price": 1363
+        },
+        {
+            "rental_id": "00060",
+            "customer_id": "00036",
+            "car_id": "00029",
+            "rental_start_date": "2021-09-09",
+            "rental_end_date": "2021-09-18",
+            "total_price": 639
+        },
+        {
+            "rental_id": "00061",
+            "customer_id": "00095",
+            "car_id": "00016",
+            "rental_start_date": "2022-02-16",
+            "rental_end_date": "2022-02-23",
+            "total_price": 609
+        },
+        {
+            "rental_id": "00062",
+            "customer_id": "00094",
+            "car_id": "00024",
+            "rental_start_date": "2022-03-23",
+            "rental_end_date": "2022-03-25",
+            "total_price": 198
+        },
+        {
+            "rental_id": "00063",
+            "customer_id": "00039",
+            "car_id": "00047",
+            "rental_start_date": "2023-02-13",
+            "rental_end_date": "2023-03-14",
+            "total_price": 2755
+        },
+        {
+            "rental_id": "00064",
+            "customer_id": "00062",
+            "car_id": "00039",
+            "rental_start_date": "2021-11-01",
+            "rental_end_date": "2021-11-04",
+            "total_price": 126
+        },
+        {
+            "rental_id": "00065",
+            "customer_id": "00096",
+            "car_id": "00033",
+            "rental_start_date": "2022-03-24",
+            "rental_end_date": "2022-03-25",
+            "total_price": 90
+        },
+        {
+            "rental_id": "00066",
+            "customer_id": "00100",
+            "car_id": "00040",
+            "rental_start_date": "2023-01-12",
+            "rental_end_date": "2023-01-29",
+            "total_price": 1649
+        },
+        {
+            "rental_id": "00067",
+            "customer_id": "00081",
+            "car_id": "00035",
+            "rental_start_date": "2023-02-07",
+            "rental_end_date": "2023-03-05",
+            "total_price": 2600
+        },
+        {
+            "rental_id": "00068",
+            "customer_id": "00091",
+            "car_id": "00028",
+            "rental_start_date": "2023-04-26",
+            "rental_end_date": "2023-05-06",
+            "total_price": 530
+        },
+        {
+            "rental_id": "00069",
+            "customer_id": "00100",
+            "car_id": "00037",
+            "rental_start_date": "2022-06-19",
+            "rental_end_date": "2022-06-30",
+            "total_price": 638
+        },
+        {
+            "rental_id": "00070",
+            "customer_id": "00087",
+            "car_id": "00016",
+            "rental_start_date": "2021-11-25",
+            "rental_end_date": "2021-12-24",
+            "total_price": 2523
+        },
+        {
+            "rental_id": "00071",
+            "customer_id": "00087",
+            "car_id": "00021",
+            "rental_start_date": "2022-09-15",
+            "rental_end_date": "2022-09-17",
+            "total_price": 190
+        },
+        {
+            "rental_id": "00072",
+            "customer_id": "00035",
+            "car_id": "00041",
+            "rental_start_date": "2022-06-28",
+            "rental_end_date": "2022-07-01",
+            "total_price": 237
+        },
+        {
+            "rental_id": "00073",
+            "customer_id": "00028",
+            "car_id": "00017",
+            "rental_start_date": "2022-05-04",
+            "rental_end_date": "2022-05-26",
+            "total_price": 1364
+        },
+        {
+            "rental_id": "00074",
+            "customer_id": "00085",
+            "car_id": "00001",
+            "rental_start_date": "2022-01-31",
+            "rental_end_date": "2022-02-05",
+            "total_price": 235
+        },
+        {
+            "rental_id": "00075",
+            "customer_id": "00091",
+            "car_id": "00004",
+            "rental_start_date": "2022-12-31",
+            "rental_end_date": "2023-01-12",
+            "total_price": 1140
+        },
+        {
+            "rental_id": "00076",
+            "customer_id": "00078",
+            "car_id": "00022",
+            "rental_start_date": "2022-11-07",
+            "rental_end_date": "2022-11-30",
+            "total_price": 1679
+        },
+        {
+            "rental_id": "00077",
+            "customer_id": "00037",
+            "car_id": "00030",
+            "rental_start_date": "2022-05-22",
+            "rental_end_date": "2022-06-05",
+            "total_price": 728
+        },
+        {
+            "rental_id": "00078",
+            "customer_id": "00066",
+            "car_id": "00014",
+            "rental_start_date": "2022-09-15",
+            "rental_end_date": "2022-10-01",
+            "total_price": 1040
+        },
+        {
+            "rental_id": "00079",
+            "customer_id": "00025",
+            "car_id": "00045",
+            "rental_start_date": "2022-11-07",
+            "rental_end_date": "2022-11-29",
+            "total_price": 2156
+        },
+        {
+            "rental_id": "00080",
+            "customer_id": "00030",
+            "car_id": "00014",
+            "rental_start_date": "2022-05-07",
+            "rental_end_date": "2022-05-23",
+            "total_price": 1040
+        },
+        {
+            "rental_id": "00081",
+            "customer_id": "00046",
+            "car_id": "00014",
+            "rental_start_date": "2023-05-17",
+            "rental_end_date": "2023-05-22",
+            "total_price": 325
+        },
+        {
+            "rental_id": "00082",
+            "customer_id": "00026",
+            "car_id": "00042",
+            "rental_start_date": "2022-07-07",
+            "rental_end_date": "2022-07-18",
+            "total_price": 473
+        },
+        {
+            "rental_id": "00083",
+            "customer_id": "00068",
+            "car_id": "00033",
+            "rental_start_date": "2022-10-22",
+            "rental_end_date": "2022-11-12",
+            "total_price": 1890
+        },
+        {
+            "rental_id": "00084",
+            "customer_id": "00086",
+            "car_id": "00040",
+            "rental_start_date": "2021-08-14",
+            "rental_end_date": "2021-09-11",
+            "total_price": 2716
+        },
+        {
+            "rental_id": "00085",
+            "customer_id": "00035",
+            "car_id": "00010",
+            "rental_start_date": "2022-09-26",
+            "rental_end_date": "2022-10-08",
+            "total_price": 1092
+        },
+        {
+            "rental_id": "00086",
+            "customer_id": "00092",
+            "car_id": "00004",
+            "rental_start_date": "2022-10-19",
+            "rental_end_date": "2022-11-03",
+            "total_price": 1425
+        },
+        {
+            "rental_id": "00087",
+            "customer_id": "00057",
+            "car_id": "00024",
+            "rental_start_date": "2022-11-01",
+            "rental_end_date": "2022-11-14",
+            "total_price": 1287
+        },
+        {
+            "rental_id": "00088",
+            "customer_id": "00079",
+            "car_id": "00041",
+            "rental_start_date": "2023-06-10",
+            "rental_end_date": "2023-07-08",
+            "total_price": 2212
+        },
+        {
+            "rental_id": "00089",
+            "customer_id": "00040",
+            "car_id": "00049",
+            "rental_start_date": "2022-05-06",
+            "rental_end_date": "2022-05-15",
+            "total_price": 630
+        },
+        {
+            "rental_id": "00090",
+            "customer_id": "00034",
+            "car_id": "00041",
+            "rental_start_date": "2023-01-23",
+            "rental_end_date": "2023-02-02",
+            "total_price": 790
+        },
+        {
+            "rental_id": "00091",
+            "customer_id": "00043",
+            "car_id": "00030",
+            "rental_start_date": "2023-03-02",
+            "rental_end_date": "2023-03-31",
+            "total_price": 1508
+        },
+        {
+            "rental_id": "00092",
+            "customer_id": "00031",
+            "car_id": "00025",
+            "rental_start_date": "2022-01-04",
+            "rental_end_date": "2022-01-29",
+            "total_price": 2400
+        },
+        {
+            "rental_id": "00093",
+            "customer_id": "00061",
+            "car_id": "00015",
+            "rental_start_date": "2021-10-05",
+            "rental_end_date": "2021-10-16",
+            "total_price": 693
+        },
+        {
+            "rental_id": "00094",
+            "customer_id": "00008",
+            "car_id": "00021",
+            "rental_start_date": "2022-10-14",
+            "rental_end_date": "2022-11-03",
+            "total_price": 1900
+        },
+        {
+            "rental_id": "00095",
+            "customer_id": "00096",
+            "car_id": "00004",
+            "rental_start_date": "2022-12-12",
+            "rental_end_date": "2023-01-11",
+            "total_price": 2850
+        },
+        {
+            "rental_id": "00096",
+            "customer_id": "00005",
+            "car_id": "00011",
+            "rental_start_date": "2022-03-18",
+            "rental_end_date": "2022-04-13",
+            "total_price": 2314
+        },
+        {
+            "rental_id": "00097",
+            "customer_id": "00084",
+            "car_id": "00035",
+            "rental_start_date": "2023-04-23",
+            "rental_end_date": "2023-05-22",
+            "total_price": 2900
+        },
+        {
+            "rental_id": "00098",
+            "customer_id": "00033",
+            "car_id": "00008",
+            "rental_start_date": "2023-01-24",
+            "rental_end_date": "2023-01-30",
+            "total_price": 432
+        },
+        {
+            "rental_id": "00099",
+            "customer_id": "00046",
+            "car_id": "00048",
+            "rental_start_date": "2022-12-28",
+            "rental_end_date": "2023-01-22",
+            "total_price": 2075
+        },
+        {
+            "rental_id": "00100",
+            "customer_id": "00073",
+            "car_id": "00012",
+            "rental_start_date": "2022-05-04",
+            "rental_end_date": "2022-05-15",
+            "total_price": 935
+        },
+        {
+            "rental_id": "00101",
+            "customer_id": "00086",
+            "car_id": "00049",
+            "rental_start_date": "2022-03-02",
+            "rental_end_date": "2022-03-25",
+            "total_price": 1610
+        },
+        {
+            "rental_id": "00102",
+            "customer_id": "00001",
+            "car_id": "00023",
+            "rental_start_date": "2023-02-09",
+            "rental_end_date": "2023-03-02",
+            "total_price": 924
+        },
+        {
+            "rental_id": "00103",
+            "customer_id": "00033",
+            "car_id": "00024",
+            "rental_start_date": "2022-02-11",
+            "rental_end_date": "2022-02-19",
+            "total_price": 792
+        },
+        {
+            "rental_id": "00104",
+            "customer_id": "00020",
+            "car_id": "00014",
+            "rental_start_date": "2022-05-15",
+            "rental_end_date": "2022-05-18",
+            "total_price": 195
+        },
+        {
+            "rental_id": "00105",
+            "customer_id": "00023",
+            "car_id": "00019",
+            "rental_start_date": "2022-06-30",
+            "rental_end_date": "2022-07-22",
+            "total_price": 946
+        },
+        {
+            "rental_id": "00106",
+            "customer_id": "00088",
+            "car_id": "00050",
+            "rental_start_date": "2023-07-30",
+            "rental_end_date": "2023-08-02",
+            "total_price": 231
+        },
+        {
+            "rental_id": "00107",
+            "customer_id": "00066",
+            "car_id": "00014",
+            "rental_start_date": "2022-11-22",
+            "rental_end_date": "2022-11-27",
+            "total_price": 325
+        },
+        {
+            "rental_id": "00108",
+            "customer_id": "00034",
+            "car_id": "00010",
+            "rental_start_date": "2022-07-29",
+            "rental_end_date": "2022-08-14",
+            "total_price": 1456
+        },
+        {
+            "rental_id": "00109",
+            "customer_id": "00015",
+            "car_id": "00010",
+            "rental_start_date": "2022-08-31",
+            "rental_end_date": "2022-09-21",
+            "total_price": 1911
+        },
+        {
+            "rental_id": "00110",
+            "customer_id": "00096",
+            "car_id": "00004",
+            "rental_start_date": "2022-02-07",
+            "rental_end_date": "2022-02-17",
+            "total_price": 950
+        },
+        {
+            "rental_id": "00111",
+            "customer_id": "00095",
+            "car_id": "00040",
+            "rental_start_date": "2022-10-21",
+            "rental_end_date": "2022-10-23",
+            "total_price": 194
+        },
+        {
+            "rental_id": "00112",
+            "customer_id": "00021",
+            "car_id": "00050",
+            "rental_start_date": "2023-01-06",
+            "rental_end_date": "2023-01-29",
+            "total_price": 1771
+        },
+        {
+            "rental_id": "00113",
+            "customer_id": "00025",
+            "car_id": "00008",
+            "rental_start_date": "2021-09-07",
+            "rental_end_date": "2021-10-05",
+            "total_price": 2016
+        },
+        {
+            "rental_id": "00114",
+            "customer_id": "00060",
+            "car_id": "00024",
+            "rental_start_date": "2022-06-01",
+            "rental_end_date": "2022-06-26",
+            "total_price": 2475
+        },
+        {
+            "rental_id": "00115",
+            "customer_id": "00052",
+            "car_id": "00038",
+            "rental_start_date": "2022-05-03",
+            "rental_end_date": "2022-05-13",
+            "total_price": 1000
+        },
+        {
+            "rental_id": "00116",
+            "customer_id": "00056",
+            "car_id": "00036",
+            "rental_start_date": "2022-01-19",
+            "rental_end_date": "2022-01-25",
+            "total_price": 570
+        },
+        {
+            "rental_id": "00117",
+            "customer_id": "00045",
+            "car_id": "00047",
+            "rental_start_date": "2022-10-12",
+            "rental_end_date": "2022-11-04",
+            "total_price": 2185
+        },
+        {
+            "rental_id": "00118",
+            "customer_id": "00055",
+            "car_id": "00017",
+            "rental_start_date": "2022-10-15",
+            "rental_end_date": "2022-10-31",
+            "total_price": 992
+        },
+        {
+            "rental_id": "00119",
+            "customer_id": "00040",
+            "car_id": "00039",
+            "rental_start_date": "2023-01-08",
+            "rental_end_date": "2023-02-03",
+            "total_price": 1092
+        },
+        {
+            "rental_id": "00120",
+            "customer_id": "00096",
+            "car_id": "00043",
+            "rental_start_date": "2023-03-10",
+            "rental_end_date": "2023-03-29",
+            "total_price": 1558
+        },
+        {
+            "rental_id": "00121",
+            "customer_id": "00069",
+            "car_id": "00046",
+            "rental_start_date": "2022-09-08",
+            "rental_end_date": "2022-09-30",
+            "total_price": 1606
+        },
+        {
+            "rental_id": "00122",
+            "customer_id": "00038",
+            "car_id": "00018",
+            "rental_start_date": "2022-05-23",
+            "rental_end_date": "2022-05-31",
+            "total_price": 704
+        },
+        {
+            "rental_id": "00123",
+            "customer_id": "00058",
+            "car_id": "00048",
+            "rental_start_date": "2022-06-07",
+            "rental_end_date": "2022-06-24",
+            "total_price": 1411
+        },
+        {
+            "rental_id": "00124",
+            "customer_id": "00024",
+            "car_id": "00018",
+            "rental_start_date": "2023-06-22",
+            "rental_end_date": "2023-07-03",
+            "total_price": 968
+        },
+        {
+            "rental_id": "00125",
+            "customer_id": "00035",
+            "car_id": "00040",
+            "rental_start_date": "2021-09-07",
+            "rental_end_date": "2021-10-03",
+            "total_price": 2522
+        },
+        {
+            "rental_id": "00126",
+            "customer_id": "00021",
+            "car_id": "00026",
+            "rental_start_date": "2023-01-26",
+            "rental_end_date": "2023-02-04",
+            "total_price": 612
+        },
+        {
+            "rental_id": "00127",
+            "customer_id": "00058",
+            "car_id": "00031",
+            "rental_start_date": "2022-06-22",
+            "rental_end_date": "2022-06-25",
+            "total_price": 276
+        },
+        {
+            "rental_id": "00128",
+            "customer_id": "00082",
+            "car_id": "00023",
+            "rental_start_date": "2023-04-07",
+            "rental_end_date": "2023-04-12",
+            "total_price": 220
+        },
+        {
+            "rental_id": "00129",
+            "customer_id": "00099",
+            "car_id": "00014",
+            "rental_start_date": "2021-12-17",
+            "rental_end_date": "2022-01-04",
+            "total_price": 1170
+        },
+        {
+            "rental_id": "00130",
+            "customer_id": "00085",
+            "car_id": "00048",
+            "rental_start_date": "2022-05-04",
+            "rental_end_date": "2022-05-30",
+            "total_price": 2158
+        },
+        {
+            "rental_id": "00131",
+            "customer_id": "00062",
+            "car_id": "00046",
+            "rental_start_date": "2023-06-06",
+            "rental_end_date": "2023-06-09",
+            "total_price": 219
+        },
+        {
+            "rental_id": "00132",
+            "customer_id": "00094",
+            "car_id": "00037",
+            "rental_start_date": "2022-12-21",
+            "rental_end_date": "2023-01-15",
+            "total_price": 1450
+        },
+        {
+            "rental_id": "00133",
+            "customer_id": "00083",
+            "car_id": "00001",
+            "rental_start_date": "2023-04-26",
+            "rental_end_date": "2023-05-12",
+            "total_price": 752
+        },
+        {
+            "rental_id": "00134",
+            "customer_id": "00006",
+            "car_id": "00033",
+            "rental_start_date": "2023-04-15",
+            "rental_end_date": "2023-04-25",
+            "total_price": 900
+        },
+        {
+            "rental_id": "00135",
+            "customer_id": "00010",
+            "car_id": "00043",
+            "rental_start_date": "2022-11-29",
+            "rental_end_date": "2022-12-15",
+            "total_price": 1312
+        },
+        {
+            "rental_id": "00136",
+            "customer_id": "00094",
+            "car_id": "00045",
+            "rental_start_date": "2022-08-25",
+            "rental_end_date": "2022-09-05",
+            "total_price": 1078
+        },
+        {
+            "rental_id": "00137",
+            "customer_id": "00013",
+            "car_id": "00039",
+            "rental_start_date": "2022-10-27",
+            "rental_end_date": "2022-11-13",
+            "total_price": 714
+        },
+        {
+            "rental_id": "00138",
+            "customer_id": "00023",
+            "car_id": "00013",
+            "rental_start_date": "2023-05-11",
+            "rental_end_date": "2023-05-21",
+            "total_price": 670
+        },
+        {
+            "rental_id": "00139",
+            "customer_id": "00059",
+            "car_id": "00033",
+            "rental_start_date": "2022-12-30",
+            "rental_end_date": "2023-01-28",
+            "total_price": 2610
+        },
+        {
+            "rental_id": "00140",
+            "customer_id": "00039",
+            "car_id": "00036",
+            "rental_start_date": "2023-07-07",
+            "rental_end_date": "2023-07-28",
+            "total_price": 1995
+        },
+        {
+            "rental_id": "00141",
+            "customer_id": "00096",
+            "car_id": "00030",
+            "rental_start_date": "2023-07-07",
+            "rental_end_date": "2023-07-27",
+            "total_price": 1040
+        },
+        {
+            "rental_id": "00142",
+            "customer_id": "00025",
+            "car_id": "00013",
+            "rental_start_date": "2022-12-31",
+            "rental_end_date": "2023-01-14",
+            "total_price": 938
+        },
+        {
+            "rental_id": "00143",
+            "customer_id": "00016",
+            "car_id": "00019",
+            "rental_start_date": "2022-04-28",
+            "rental_end_date": "2022-05-25",
+            "total_price": 1161
+        },
+        {
+            "rental_id": "00144",
+            "customer_id": "00010",
+            "car_id": "00006",
+            "rental_start_date": "2022-06-28",
+            "rental_end_date": "2022-07-09",
+            "total_price": 792
+        },
+        {
+            "rental_id": "00145",
+            "customer_id": "00062",
+            "car_id": "00024",
+            "rental_start_date": "2022-09-11",
+            "rental_end_date": "2022-09-26",
+            "total_price": 1485
+        },
+        {
+            "rental_id": "00146",
+            "customer_id": "00039",
+            "car_id": "00048",
+            "rental_start_date": "2021-08-04",
+            "rental_end_date": "2021-08-11",
+            "total_price": 581
+        },
+        {
+            "rental_id": "00147",
+            "customer_id": "00080",
+            "car_id": "00018",
+            "rental_start_date": "2022-09-18",
+            "rental_end_date": "2022-10-13",
+            "total_price": 2200
+        },
+        {
+            "rental_id": "00148",
+            "customer_id": "00060",
+            "car_id": "00020",
+            "rental_start_date": "2023-01-09",
+            "rental_end_date": "2023-01-27",
+            "total_price": 1692
+        },
+        {
+            "rental_id": "00149",
+            "customer_id": "00088",
+            "car_id": "00013",
+            "rental_start_date": "2022-09-26",
+            "rental_end_date": "2022-10-21",
+            "total_price": 1675
+        },
+        {
+            "rental_id": "00150",
+            "customer_id": "00073",
+            "car_id": "00026",
+            "rental_start_date": "2023-06-22",
+            "rental_end_date": "2023-07-12",
+            "total_price": 1360
+        }
+    ]
+}
